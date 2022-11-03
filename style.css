@@ -1,0 +1,372 @@
+.header1{
+    background-color: rgba(128, 128, 128, 0.925);
+    height: 70px;
+    padding: 15px;
+    
+    
+}
+.headerP{
+    display: flex;
+    align-items: center;
+    
+}
+.logoSaita{
+    margin-left: 380px;
+}
+.logoSaita img{
+    width: 180px;
+}
+.menuSaita{
+    margin-left: 60px;
+}
+.menuSaita ul{
+    display: flex;
+    margin: 0;
+}
+.menuSaita li{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.menuSaita a{
+    text-decoration: none;
+    color: #fff;
+}
+.menuSaita a:hover{
+    background-color: rgba(128, 128, 128, 0.707);
+    padding: 10px 12px;
+}
+.menuSaita i{
+    font-size: 18px;
+}
+
+.header2{
+    background-color: rgba(105, 61, 61, 0.23);
+    height: 35px;
+}
+
+.bodyBanner{
+    
+    margin-left: 120px;
+}
+.social{
+    margin-top: 30px;
+    margin-left: 800px;
+}
+.social ul{
+    display: flex;
+}
+.social li{
+    list-style-type: none;
+
+}
+.social a{
+    text-decoration: none;
+    margin-left: 15px;
+}
+#socialMedia{
+    color: #fff;
+    border-radius: 65px;
+    font-size: 20px;
+    background-color: rgb(255, 0, 0);
+    padding: 10px 13px;
+
+}
+
+
+
+
+
+.body2{
+    margin-top: 30px;
+    background-color: rgba(105, 61, 61, 0.23);
+    height: 5px;
+}
+
+.body3P{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.body3Header ul{
+    display: flex;
+}
+.body3Header li{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.body3Header a{
+    text-decoration: none;
+}
+#ssylki{
+    
+    width: 300px;
+    height: 200px;
+}
+#iconki{
+    font-size: 40px;
+    padding: 10px 12px; 
+    border-radius: 50px;
+    margin-top: 40px;
+    margin-left: 120px;
+
+}
+.bxs-ambulance{
+    color: greenyellow;
+    border: 1px solid greenyellow;
+
+}
+.bx-heart{
+    color:red;
+    border: 1px solid red;
+
+}
+.bx-tv{
+    color:blue;
+    border: 1px solid blue;
+
+}
+#TextVSsylkah{
+    margin-top: 25px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.body3Body{
+    margin-top: 20px;
+    
+}
+#Usluga{
+    font-size: 35px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 450px;
+}
+.body3Body ul{
+    display: flex;
+}
+.body3Body li{
+    list-style: none;
+}
+.Uslugi{
+    display: flex;
+    
+}
+#buttonUslugi{
+    
+    width: 450px;
+    height: 380px;
+    margin-left: 30px;
+}
+.Usluga1{
+    background-image: url(images/11.jpg);
+}
+.Usluga2{
+    background-image: url(images/12.jpg);
+}
+.Usluga3{
+    background-image: url(images/13.jpg);
+}
+#text{
+    color: #fff;
+    background-color: rgba(0, 0, 255, 0.349);
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 140px;
+    margin-left: 50px;
+    width: 230px;
+    text-align: center;
+   
+}
+#Podrobnee{
+   text-decoration: none;
+   color: orange;
+   font-size: 18px;
+   background-color: #fff;
+   padding: 10px 10px;
+   border-radius: 60px;
+   margin-left: 100px;
+   margin-top: 30px;
+}
+.VseUslugi{
+    margin-top: 40px;
+    margin-left: 500px;
+}
+#vseUsl{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: red;
+    padding: 15px 20px;
+    border-radius: 50px;
+}
+
+.body4{
+    background-color: rgba(128, 128, 128, 0.242);
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.body4P{
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+#t1{
+    display: flex;
+    margin-left: 10px;
+    font-size: 35px;
+    color: blue;
+}
+#t2{
+    text-align: center;
+    font-size: 22px;
+}
+.Body4Body{
+    margin-top: 50px;
+    display: flex;
+   
+}
+.ramki{
+    display: flex;
+}
+.blocki{
+    display: flex;
+   
+}
+.block{
+    width: 300px;
+    height: 300px;
+    
+    margin-left: 30px;
+    background-color: #fff;
+
+}
+.ramka{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 180px;
+    bottom: 20px;
+}
+#Aliev{
+    background-image: url(images/a-1.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: 150px;
+}
+#Tursunbaev{
+    background-image: url(images/a-2.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: 210px;
+}
+#Maksutov{
+    background-image: url(images/a-3.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: 240px;
+}
+#imena{
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 30px;
+    text-align: center;
+
+}
+#texta{
+    color: gray;
+    text-align: center;
+}
+.Body5{
+    background-image: url(images/block5Fon.jpg);
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.Body5P{
+    margin-left: 400px;
+    margin-right: 400px;
+    display: flex;
+}
+.support{
+    width: 800px;
+    height: 480px;
+    
+    margin-left: 50px;
+
+}
+#tex{
+    color: blue;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+
+}
+.Name{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;  
+}
+
+.bxs-user-circle{
+    font-size: 30px;
+}
+.bx-envelope{
+    font-size: 30px;
+}
+.TextArea{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.button{
+    margin-top: 30px;
+    text-align: center;
+}
+#button{
+    font-size: 25px;
+    border-radius: 20px;
+    padding: 5px 95px;
+    background-color: red;
+    color: #fff;
+}
+.contact li{
+    list-style: none;
+    
+    
+}
+.contact a{
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+.contact{
+    margin-left: 50px;
+    margin-right: 180px;
+    margin-top: 100px;
+    font-size: 50px;
+    
+}
+.bx-phone{
+    font-size: 20px;
+}
+.bx-location-plus{
+    font-size: 20px;
+
+}
+.bx-envelope{
+    font-size: 20px;
+
+}
+.footer{
+    margin-top: 50px;
+    
+    
+}
+.nav-item{
+    color: #fff;
+
+}
